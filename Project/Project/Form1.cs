@@ -84,11 +84,22 @@ namespace Project
             {
                 Process.Start("taskmgr.exe");
             }
+            if (radioButton5.Checked == true)
+            {
+                Process.Start("calc.exe");
+            }
         }
 
         private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
             textBox1.Clear();
+            button1.Enabled = false;
+            textBox1.Enabled = false;
+        }
+
+        private void radioButton5_CheckedChanged(object sender, EventArgs e)
+        {
+           textBox1.Clear();
             button1.Enabled = false;
             textBox1.Enabled = false;
         }
