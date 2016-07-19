@@ -1,0 +1,9 @@
+C:\Users\User\Practice-21\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Practice-21\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Practice-21\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Practice-21\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Practice-21\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\User\Practice-21\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Practice-21\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\User\Practice-21\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Practice-21\Project\Project\obj\Debug\Project.pdb
