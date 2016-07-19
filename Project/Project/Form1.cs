@@ -80,7 +80,17 @@ namespace Project
             {
                 Process.Start("notepad.exe", textBox1.Text);
             }
+            if (radioButton4.Checked == true)
+            {
+                Process.Start("taskmgr.exe");
+            }
+        }
 
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            button1.Enabled = false;
+            textBox1.Enabled = false;
         }
     }
 }
